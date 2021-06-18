@@ -10,7 +10,7 @@
 
 - CSS
 
-  - [@css-loader的配置]: https://github.com/jiantongCode/blogs/blob/main/Webpack/css-loader.md	"css-loader的配置"
+  - [https://github.com/jiantongCode/blogs/blob/main/Webpack/css-loader.md](css-loader)
 
 - HTML
 
