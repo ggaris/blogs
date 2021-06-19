@@ -8,7 +8,8 @@
 - JavaScript
 - CSS
   - [css-loader](https://github.com/jiantongCode/blogs/blob/main/Webpack/css-loader.md)
-
+  - [babel-loader](https://github.com/jiantongCode/blogs/blob/main/Webpack/babel-loader.md)
+  
 - HTML
 
 - Webpack
