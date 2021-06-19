@@ -2,7 +2,7 @@
 
 ​	主要用来记载一些学习的知识和新的技术🍺
 
-![gir](D:/%E5%A3%81%E7%BA%B8/gir.jpg)
+![gir](https://github.com/jiantongCode/img/blob/main/root/gir.jpg)
 
 ## 目录
 
