@@ -6,13 +6,16 @@
 ## 目录
 
 - JavaScript
+
 - CSS
-  - [css-loader](https://github.com/jiantongCode/blogs/blob/main/Webpack/css-loader.md)
-  - [babel-loader](https://github.com/jiantongCode/blogs/blob/main/Webpack/babel-loader.md)
-  
+
 - HTML
 
 - Webpack
+
+  - [css-loader](https://github.com/jiantongCode/blogs/blob/main/Webpack/css-loader.md)
+  - [babel-loader](https://github.com/jiantongCode/blogs/blob/main/Webpack/babel-loader.md)
+  - [module配置](https://github.com/jiantongCode/blogs/blob/main/Webpack/module.md)
 
 - React
 
